@@ -103,13 +103,6 @@
 
 </div>
 
-<div align="center">
-
-[![Tharushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharushara72&show_icons=true&theme=tokyonight&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushara72&layout=compact&theme=tokyonight&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ---
 
